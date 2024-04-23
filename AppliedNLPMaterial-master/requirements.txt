@@ -26,4 +26,4 @@ sentence-transformers==2.2.2
 sentencepiece==0.1.99
 streamlit==1.29.0
 torch==2.1.2
-transformers==4.36.2
+transformers==4.38.0
